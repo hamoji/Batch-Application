@@ -1,0 +1,7 @@
+Microsoft Windows [version 6.1.7600]
+Copyright (c) 2009 Microsoft Corporation. Tous droits r‚serv‚s.
+
+C:\Users\myriane>shutdown /l
+shutdown /l
+
+C:\Users\myriane>
